@@ -2,7 +2,8 @@
 layout: section
 title: "Beam SQL: Data Types"
 section_menu: section-menu/sdks.html
-permalink: /documentation/dsls/sql/data-types/
+permalink: /documentation/dsls/sql/calcite/data-types/
+redirect_from: /documentation/dsls/sql/data-types/
 ---
 <!--
 Licensed under the Apache License, Version 2.0 (the "License");
