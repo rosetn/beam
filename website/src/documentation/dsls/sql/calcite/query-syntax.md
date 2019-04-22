@@ -1,6 +1,6 @@
 ---
 layout: section
-title: "Query syntax"
+title: "Beam SQL query syntax for Calcite"
 section_menu: section-menu/sdks.html
 permalink: /documentation/dsls/sql/calcite/query-syntax/
 redirect_from: /documentation/dsls/sql/statements/select/
@@ -23,7 +23,7 @@ limitations under the License.
 # Query syntax
 
 Query statements scan one or more tables or expressions and return the computed
-result rows. This topic describes the syntax for SQL queries in Beam.
+result rows. This page documents Beam SQL's syntax for queries when using Apache Calcite.
 
 Generally, the semantics of queries is standard. Please see the following
 sections to learn about extensions for supporting Beam's unified
