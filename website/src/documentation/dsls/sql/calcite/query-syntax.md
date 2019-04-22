@@ -1,9 +1,10 @@
 ---
 layout: section
-title: "Beam SQL: SELECT Statement"
+title: "Query syntax"
 section_menu: section-menu/sdks.html
 permalink: /documentation/dsls/sql/select/
 redirect_from: /documentation/dsls/sql/statements/select/
+               /documentation/dsls/sql/select/
 ---
 <!--
 Licensed under the Apache License, Version 2.0 (the "License");
