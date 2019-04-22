@@ -25,7 +25,7 @@ This page documents built-in functions supported by Beam SQL when using Apache C
 
 See also [Calcite
 SQL's operators and functions
-reference](http://calcite.apache.org/docs/reference.html#operators-and-functions)
+reference](http://calcite.apache.org/docs/reference.html#operators-and-functions).
 
 ## Comparison functions and operators
 
