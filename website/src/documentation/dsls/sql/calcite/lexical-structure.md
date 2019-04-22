@@ -19,7 +19,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Beam SQL Lexical Structure
+# Beam SQL lexical structure for Calcite
 
 A Beam SQL statement comprises a series of tokens. Tokens include
 *identifiers,* *quoted identifiers, literals*, *keywords*, *operators*,
