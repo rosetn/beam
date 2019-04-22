@@ -2,7 +2,7 @@
 layout: section
 title: "Query syntax"
 section_menu: section-menu/sdks.html
-permalink: /documentation/dsls/sql/select/
+permalink: /documentation/dsls/sql/calcite/query-syntax/
 redirect_from: /documentation/dsls/sql/statements/select/
                /documentation/dsls/sql/select/
 ---
