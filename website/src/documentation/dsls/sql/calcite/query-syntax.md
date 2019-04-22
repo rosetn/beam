@@ -20,11 +20,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# SELECT
+# Query syntax
 
-The main functionality of Beam SQL is the `SELECT` statement. This is how you
-query and join data. The operations supported are a subset of
-[Apache Calcite SQL](http://calcite.apache.org/docs/reference.html#grammar).
+Query statements scan one or more tables or expressions and return the computed
+result rows. This topic describes the syntax for SQL queries in Beam.
 
 Generally, the semantics of queries is standard. Please see the following
 sections to learn about extensions for supporting Beam's unified
@@ -33,8 +32,9 @@ batch/streaming model:
  - [Joins]({{ site.baseurl}}/documentation/dsls/sql/joins)
  - [Windowing & Triggering]({{ site.baseurl}}/documentation/dsls/sql/windowing-and-triggering/)
 
-Query statements scan one or more tables or expressions and return the computed
-result rows. This topic describes the syntax for SQL queries in Beam.
+The main functionality of Beam SQL is the `SELECT` statement. This is how you
+query and join data. The operations supported are a subset of
+[Apache Calcite SQL](http://calcite.apache.org/docs/reference.html#grammar).
 
 ## SQL Syntax
 
