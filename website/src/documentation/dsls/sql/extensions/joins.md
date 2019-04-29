@@ -3,6 +3,7 @@ layout: section
 title: "Beam SQL: Joins"
 section_menu: section-menu/sdks.html
 permalink: /documentation/dsls/sql/joins/
+redirect-from: /documentation/dsls/sql/extensions/joins/
 ---
 <!--
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +19,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Beam SQL: Joins
+# Beam SQL extensions: Joins
 
 Supported `JOIN` types in Beam SQL:
 * `INNER`, `LEFT OUTER`, `RIGHT OUTER`
