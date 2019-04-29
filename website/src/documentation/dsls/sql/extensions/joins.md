@@ -1,6 +1,6 @@
 ---
 layout: section
-title: "Beam SQL: Joins"
+title: "Beam SQL extensions: Joins"
 section_menu: section-menu/sdks.html
 permalink: /documentation/dsls/sql/joins/
 redirect-from: /documentation/dsls/sql/extensions/joins/
@@ -69,9 +69,5 @@ strategies remain unchanged.
 ## Unbounded JOIN Bounded {#join-unbounded-bounded}
 
 For this type of `JOIN` bounded input is treated as a side-input by the
-implementation.
-
-This means that 
-
- - window/trigger is inherented from upstreams, which should be consistent
+implementation. This means that window/trigger is inherented from upstreams.
 
