@@ -37,12 +37,18 @@ There are two additional concepts from the Java SDK that you need to know to use
  - [Row](https://beam.apache.org/releases/javadoc/{{ site.release_latest }}/index.html?org/apache/beam/sdk/values/Row.html):
    the type of elements that Beam SQL operates on. A `PCollection<Row>` plays the role of a table.
 
+## SQL pipeline walkthrough
+This [pipeline walkthrough]({{ site.baseurl
+}}/documentation/dsls/sql/walkthrough) works through how you use Beam SQL with example code.
 
-- [SQL pipeline walkthrough]({{ site.baseurl
-}}/documentation/dsls/sql/walkthrough) works through how you use Beam SQL.
-- [Shell]{{ site.baseurl
-}}/documentation/dsls/sql/shell) shows you how write pipelines as SQL queries without needing the Java SDK in the interactive Beam SQL shell.
-- [Apache Calcite dialect]{{ site.baseurl
+## Interactive Beam SQL shell
+[The Beam SQL shell]{{ site.baseurl
+}}/documentation/dsls/sql/shell) allows you how write pipelines as SQL queries without needing the Java SDK in the interactive Beam SQL shell. This page describes how to work with this shell.
+
+## Apache Calcite dialect
+The [Apache Calcite section]{{ site.baseurl
 }}/documentation/dsls/sql/calcite) describes Beam SQL support when using Apache Calcite.
-- [Beam SQL extensions]{{ site.baseurl
-}}/documentation/dsls/sql/extensions) is a reference for the additional extensions created to leverage Beam.
+
+## Beam SQL extensions 
+[Beam SQL extensions]{{ site.baseurl
+}}/documentation/dsls/sql/extensions) is a reference for the additional Beam extensions. 
