@@ -1,6 +1,6 @@
 ---
 layout: section
-title: "Beam SQL: Overview"
+title: "Beam SQL in Calcite: Overview"
 section_menu: section-menu/sdks.html
 permalink: /documentation/dsls/sql/calcite/overview/
 ---
