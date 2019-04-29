@@ -27,9 +27,12 @@ are commonly called UDF (for scalar functions) and UDAFs (for aggregate function
 
 ## Create and specify a User Defined Function (UDF)
 
-A UDF can be 1) any Java method that takes zero or more scalar fields and
-return one scalar value, or 2) a `SerializableFunction`. Below is an example of
-UDF and how to use it in DSL:
+A UDF can be the follwing:
+- Any Java method that takes zero or more scalar fields and
+  returns one scalar value.
+- A `SerializableFunction`.
+
+Below is an example of UDF and how to use it in DSL:
 
 ```java
 /**
