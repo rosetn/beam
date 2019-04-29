@@ -27,7 +27,7 @@ are commonly called UDF (for scalar functions) and UDAFs (for aggregate function
 
 ## Create and specify a User Defined Function (UDF)
 
-A UDF can be the follwing:
+A UDF can be the following:
 - Any Java method that takes zero or more scalar fields and
   returns one scalar value.
 - A `SerializableFunction`.
