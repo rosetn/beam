@@ -42,13 +42,13 @@ This [pipeline walkthrough]({{ site.baseurl
 }}/documentation/dsls/sql/walkthrough) works through how you use Beam SQL with example code.
 
 ## Interactive Beam SQL shell
-[The Beam SQL shell]{{ site.baseurl
+[The Beam SQL shell]({{ site.baseurl
 }}/documentation/dsls/sql/shell) allows you how write pipelines as SQL queries without needing the Java SDK in the interactive Beam SQL shell. This page describes how to work with this shell.
 
 ## Apache Calcite dialect
-The [Apache Calcite section]{{ site.baseurl
+The [Apache Calcite section]({{ site.baseurl
 }}/documentation/dsls/sql/calcite) describes Beam SQL support when using Apache Calcite.
 
 ## Beam SQL extensions 
-[Beam SQL extensions]{{ site.baseurl
+[Beam SQL extensions]({{ site.baseurl
 }}/documentation/dsls/sql/extensions) is a reference for the additional Beam extensions. 
