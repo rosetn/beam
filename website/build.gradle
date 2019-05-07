@@ -46,7 +46,7 @@ task setupVirtualenv {
     }
     exec {
       executable 'sh'
-      args '-c', ". ${envdir}/bin/activate && pip install beautifulsoup4"
+      args '-c', ". ${envdir}/bin/activate && pip install beautifulsoup4 nbformat"
     }
   }
   outputs.dirs(envdir)
